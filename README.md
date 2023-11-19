@@ -8,7 +8,7 @@
     1. Install the dependencies needed to run the app:
        ```
             $ pip install -r requirements.txt
-      ```
+       ```
     2. Make mrigrations by using the following commands:
        ```
             $ python manage.py makemigrations
