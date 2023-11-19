@@ -22,7 +22,7 @@
     ```
     Access the API's by running the following commands in the browser
     ```
-        http://localhost:8000/
+        http://localhost:8000/api/
         or
-        http://127.0.0.1:8000/
+        http://127.0.0.1:8000/api/
     ```
